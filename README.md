@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jozefcifre
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on @DestinationSol
+- 💞️ I’m looking to collaborate on https://github.com/DestinationSol
 - 📫 How to reach me: jozefcifre@gmail.com and jozefcifre@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There's no fun fact at the moment :(
