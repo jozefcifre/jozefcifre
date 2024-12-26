@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on https://github.com/DestinationSol
 - 📫 How to reach me: jozefcifre@gmail.com and jozefcifre@proton.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: There's no fun fact at the moment :(
+- ⚡ Fun fact: I learn more physics in game development than in class.
 
 <!---
 jozefcifre/jozefcifre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
